@@ -27,12 +27,12 @@
     </div>
     <div class="footer">
       <div class="footer-link">
-        <a href="https://www.imooc.com/u/1343480" target="_blank">河畔一角主页</a><span>|</span>
-        <a href="https://coding.imooc.com/class/113.html" target="_blank">Vue全栈课程</a><span>|</span>
-        <a href="https://coding.imooc.com/class/236.html" target="_blank">React全家桶课程</a><span>|</span>
-        <a href="https://coding.imooc.com/class/343.html" target="_blank">微信支付专项课程（H5+小程序/云+Node+MongoDB）</a>
+        <a href="#" target="_blank">Html5作业</a><span>|</span>
+        <a href="#" target="_blank">Html5 Web开发</a><span>|</span>
+        <a href="#" target="_blank">Vue3.0</a><span>|</span>
+        <a href="#" target="_blank">基于Html5+Vue 仿照小米商城的实现</a>
       </div>
-      <p class="copyright">Copyright ©2019 mi.futurefe.com All Rights Reserved.</p>
+      <div class="copyright">Copyright ©2020 <span class="domain">www.gopher.com</span> All Rights Reserved.</div>
     </div>
   </div>
 </template>
