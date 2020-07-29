@@ -1,5 +1,5 @@
-# Html5_Work
-> 基于Html5+CSS3+JS+Vue全家桶实现仿小米商城的 web系统
+# Vue-MI-Shop
+> 基于Vue全家桶实现仿小米商城的 web系统
 
 ## 技术要点:
 
